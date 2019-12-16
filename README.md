@@ -31,7 +31,7 @@ implementation is hard to explain, it's a bad idea.
 point in having great ideas if you don’t communicate them effectively.
 Be conscious of both your words and your tone.
 
-1. **Be a Craftsman** Craftsmen of an earlier age were proud to
+1. **Be a Craftsperson** Craftspeople of an earlier age were proud to
 sign their work. We should be, too. A product's quality is only 
 as good as its weakest part. This can manifest itself as
 well documented modules, open-sourcing our tools, or just giving
